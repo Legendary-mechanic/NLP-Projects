@@ -1,3 +1,4 @@
+# PROJECT IS UNDER WORK, MANY THINGS ARE NOT YET COMPLETED
 # Project 1: Sentiment Analysis of Twitter Reviews using NLP
 
 ## Aim of the Project
