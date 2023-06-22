@@ -11,7 +11,7 @@ The dataset used for this project is an entity-level sentiment analysis dataset 
 - Entity (topic on which tweet is being made)
 - Sentiment (positive, negative, neutral, irrelevant)
 - Tweet Content
-
+[DATASET SOURCE](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
 ## Result
 [To be filled]
 
