@@ -4,6 +4,7 @@
 The aim of this project is to perform sentiment analysis on Twitter reviews using Natural Language Processing (NLP) techniques. The goal is to analyze the sentiment expressed in the tweets regarding a specific entity and classify them into positive, negative, neutral categories.
 
 ## Dataset Description
+[DATASET SOURCE](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)   
 The dataset used for this project is an entity-level sentiment analysis dataset of Twitter reviews. Each entry in the dataset consists of the following columns:
 
 - Tweet ID
